@@ -1,2 +1,2 @@
 # hello-world
-Tutorial sencillo de GiotHub
+Tutorial sencillo de GitHub (https://guides.github.com/activities/hello-world/)
