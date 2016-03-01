@@ -1,0 +1,13 @@
+-- Comprobar estado de sincronizacion
+$ git status
+
+-- Aniadir un fichero nuevo al index (stage)
+$ git add Readme.txt
+
+-- Enviar un fichero added al repositorio local (HEAD)
+$ git commit -m "Add Readme.txt"
+
+-- Consolidar un fichero commited en el repositorio remoto
+$ git push Readme.txt
+
+-- Actualizar el repositorio local con lo que hay en el remoto
