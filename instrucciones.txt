@@ -11,3 +11,4 @@ $ git commit -m "Add Readme.txt"
 $ git push Readme.txt
 
 -- Actualizar el repositorio local con lo que hay en el remoto
+$ git pull
